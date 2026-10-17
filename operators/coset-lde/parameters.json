@@ -1,0 +1,13 @@
+{
+  "profile": "Goldilocks-Plonky3-coherent-roots-v1",
+  "prime": "18446744069414584321",
+  "omega32_hex": "185629dcda58878c",
+  "omega18_hex": "81281a7b05f9beac",
+  "omega16_hex": "54df9630bf79450e",
+  "derivation": "omega_l = omega_32 ** (2 ** (32-l)) mod prime",
+  "upstream_file": "goldilocks/src/goldilocks.rs",
+  "ordering": "natural",
+  "typical_logN": 16,
+  "typical_logB": 2,
+  "maxLogM": 18
+}

@@ -1,0 +1,17 @@
+rtl/v1.1.0/n65536-b4-lane1/AsicSram1R1W_131072x64.sv
+rtl/v1.1.0/n65536-b4-lane1/AsicSram1R1W_262144x64.sv
+rtl/v1.1.0/n65536-b4-lane1/GoldilocksCosetLde.sv
+rtl/v1.1.0/n65536-b4-lane1/LdeGoldilocksButterfly.sv
+rtl/v1.1.0/n65536-b4-lane1/LdeGoldilocksMul.sv
+rtl/v1.1.0/n65536-b4-lane1/LdePlane.sv
+rtl/v1.1.0/n65536-b4-lane1/LdeSegmentedAdd_65.sv
+rtl/v1.1.0/n65536-b4-lane1/LdeSegmentedAdd_66.sv
+rtl/v1.1.0/n65536-b4-lane1/Queue1_LdeTask.sv
+rtl/v1.1.0/n65536-b4-lane1/Queue2_LdeBeat.sv
+rtl/v1.1.0/n65536-b4-lane1/Queue2_LdeTable.sv
+rtl/v1.1.0/n65536-b4-lane1/Queue4_LdeBeat.sv
+rtl/v1.1.0/n65536-b4-lane1/memory_131072x64.sv
+rtl/v1.1.0/n65536-b4-lane1/memory_262144x64.sv
+rtl/v1.1.0/n65536-b4-lane1/ram_2x131.sv
+rtl/v1.1.0/n65536-b4-lane1/ram_2x66.sv
+rtl/v1.1.0/n65536-b4-lane1/ram_4x131.sv
